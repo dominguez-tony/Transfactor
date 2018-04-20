@@ -1,0 +1,39 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+.download
+{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 400px;
+    background-color: #8BC34A;
+    border: solid 5px #5A9216;
+    border-radius: 5%;
+    margin: 200px auto;
+}
+
+a
+{
+    text-align: center;
+    margin-top: 80px;
+    margin-right: 20px;
+    height: 45px;
+    width: 170px;
+    border-radius: 10px;
+}
+ 
+.tele
+{
+    margin-left: 37%;
+    border: solid 5px #5A9216;
+    border-radius: 10px;
+}
+
+h1
+{
+    margin: 30px auto 0 auto;
+}
